@@ -1,0 +1,8 @@
+{
+  "name": "rzoffc-ai",
+  "version": "1.0.0",
+  "description": "RzOffc AI Chat — Powered by Milo-AI",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
